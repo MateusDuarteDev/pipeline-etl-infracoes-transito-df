@@ -1,8 +1,0 @@
-# Dados brutos (baixe pela fonte oficial, veja data/README.md)
-data/*.csv
-
-# Arquivos temporários
-.ipynb_checkpoints/
-__pycache__/
-.venv/
-.DS_Store
